@@ -40,6 +40,10 @@ Limitar el pixel ratio, (@2x o @3x), acepta el valor en número entero.
     ngImgResponsiveConfigProvider.setImage.extraLarge('1920:1080');
  }
  ```
+ 
+ TODO
+ Agregar Spinner de precarga.
+ Agregar Leazy Load.
  En caso de que falte un tamaño, tomará el valor siguiente.
 
 
